@@ -1,1 +1,2 @@
 - Command line push testing
+- Testing git pull on local machine
