@@ -36,7 +36,7 @@ Recursive Fibonacci function written in Java
 
 ---
 
-## ASCII Art
+## Cool Markdown Features and Some ASCII Art
 
 <center>
 
