@@ -13,9 +13,9 @@ Horizontal line with tripledash
 
 ---
 
-**Bold text**
-*Italıc text*
-~~strikethrough text~~
+**Bold text** <br>
+*Italıc text* <br>
+~~strikethrough text~~ <br>
 
 ---
 
@@ -133,3 +133,4 @@ Gallimimus* | | | :heavy_check_mark: |
 
 *Note.* The classification of dinosaurs as omnivores is not as well-established as herbivores or carnivores since it is more challenging to determine the diet of extinct species accurately. 
 </center>
+
